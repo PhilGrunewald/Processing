@@ -1,0 +1,61 @@
+-1	missing
+1	sleeping
+2	resting
+3	washing
+4	eating/drinking
+5	preparing food
+6	cleaning
+7	washing clothes
+8	maintenance of house
+9	pet care
+11	work for job
+12	formal education
+13	recreational study
+14	voluntary work
+15	caring for own children
+16	caring for other children
+17	helping/caring for adults who live with you
+18	helping/caring for adults who don't live with you
+19	shopping
+20	watching TV/listening to radio
+21	reading
+22	playing sports/exercise
+23	spending time with friends/family at home
+24	going out with friends/family
+25	contact with friends/family by phone/etc
+26	visits to cinema/galleries/etc
+27	attend religious or political meetings
+28	hobbies, other leisure
+29	using computer
+30	other activities
+41	travel - car/escort
+42	travel - car/enjoyment
+43	travel - car/paid work
+44	travel - car/shopping
+45	travel - car/other
+51	travel - walk/escort
+52	travel - walk/enjoyment
+53	travel - walk/paid work
+54	travel - walk/shopping
+55	travel - walk/other
+61	travel - pedal bike/escort
+62	travel - pedal bike/enjoyment
+63	travel - pedal bike/paid work
+64	travel - pedal bike/shopping
+65	travel - pedal bike/other
+71	travel - bus or coach/escort
+72	travel - bus or coach/enjoyment
+73	travel - bus or coach/paid work
+74	travel - bus or coach/shopping
+75	travel - bus or coach/other
+81	travel - train or underground/escort
+82	travel - train or underground/enjoyment
+83	travel - train or underground/paid work
+84	travel - train or underground/shopping
+85	travel - train or underground/other
+91	travel - other/escort
+92	travel - other/enjoyment
+93	travel - other/paid work
+94	travel - other/shopping
+95	travel - other/other
+99	travel - info missing
